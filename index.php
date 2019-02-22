@@ -1,5 +1,6 @@
-<!DOCTYPE html>
-<link rel="stylesheet" href="css/style.html">
+<?php
+    include 'css/style.html';
+?>
 <html>
 <body class="bg-dark text-white">
     <h1>
